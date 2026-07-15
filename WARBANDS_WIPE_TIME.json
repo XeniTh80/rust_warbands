@@ -1,0 +1,34 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "WARBANDS_WIPE_TIME",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "**Wipe Time**",
+                "description": "**Wipe every friday at 3:00PM UTC+2 !\nBlueprint wipe weekly.**\n \n**F1 Connect**\nconnect 103.102.135.129:25500\n\n**Next Wipe**\nNext wipe schedule for <t:1783947600:F>.\n\n**Wipe Timer:** <t:1783947600:R>",
+                "color": 5814783,
+                "footer": {
+                  "text": "WARBANDS",
+                  "icon_url": "https://i.imgur.com/va7FmIu.png"
+                },
+                "timestamp": "2026-07-03T07:00:00.000Z"
+              }
+            ],
+            "attachments": []
+          },
+          "reference": "https://discord.com/channels/1313631666488479744/1522494713444434020/1525950354095739124"
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1522501454177239090/hvnSq3oqgwAR40JNr9VtmUTe2ThqhKcbhk5U_UlibSuUgIgZ2AUK-yM0qkJuIatNRvVK"
+        }
+      ]
+    }
+  ]
+}
